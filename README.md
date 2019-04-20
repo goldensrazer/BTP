@@ -8,9 +8,9 @@ Siga todos os passos.
 
 ### Pre-requisitos
 APIKEY = Gerar chave api no google maps https://developers.google.com/maps/documentation/javascript/get-api-key
-local:Servidor xampp.
-banco de dados:MYSQL.
-npm
+Servidor local: xampp.</br>
+Banco de dados: MYSQL.</br>
+npm: O npm é um gerenciador de pacotes</br>
 
 ```
 Descompacte o arquivo na pasta xampp\htdocs\"Nome da pasta"
