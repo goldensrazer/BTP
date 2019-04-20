@@ -4,10 +4,10 @@ Projeto elaborado no evento de tecnologia HACKATHON DOS PORTOS
 
 ## Getting Started
 
-Criar o Banco de dados, importa script na pasta DB e executas.
+Siga todos os passos.
 
 ### Pre-requisitos
-
+APIKEY = Gerar chave api no google maps https://developers.google.com/maps/documentation/javascript/get-api-key
 local:Servidor xampp.
 banco de dados:MYSQL
 npm
@@ -42,6 +42,12 @@ inicie o servidor e acesse a pasta
 
 ```
 http://localhost/sistema/
+```
+
+Nos arquivos dashboard.php e admin.php dentro da pasta admin/
+
+```
+dashboard.php linha 311: inserir api key=API&callback //admin.php linha 319 o mesmo.
 ```
 Resultado Tela de Login.
 
