@@ -308,7 +308,7 @@ $mare = 1.5; //exemplo do elerta
           }
 
 </script>
- <script src="https://maps.googleapis.com/maps/api/js?key=APIKEY=initMap"
+ <script src="https://maps.googleapis.com/maps/api/js?key=APIKEY&callback=initMap"
     async defer>
 </script>
 
